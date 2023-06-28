@@ -1,0 +1,7 @@
+{
+  "name": "indian_car_rental",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
